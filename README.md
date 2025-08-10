@@ -47,11 +47,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### AI & Specialized
-![VAPI](https://img.shields.io/badge/VAPI-Voice_AI-green?style=for-the-badge)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 </div>
 
@@ -59,12 +54,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Mayeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayeed-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayeed-git&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayeed-git&theme=tokyonight&hide_border=true)
 
 </div>
 
