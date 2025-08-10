@@ -74,15 +74,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Mayeed-git&color=brightgreen&style=for-the-badge)
-
-⭐ **From [Mayeed-git](https://github.com/Mayeed-git)** - *Building the future, one commit at a time* ⭐
-
-</div>
