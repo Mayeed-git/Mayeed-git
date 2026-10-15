@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **2nd Year Computer Science Student** at University of Surrey
+- 🎓 **Final Year Computer Science Student** at University of Surrey
 - 🔭 Currently building **AI-powered applications** and **scalable web platforms**
 - 🌱 Learning **Machine Learning**, **Cloud Architecture**, and **DevOps**
 - 👯 Looking to collaborate on **open source projects** and **innovative startups**
-- 💬 Ask me about **Full-Stack Development**, **AI Integration**
+- 💬 Ask me about **Data Analytics**, **Data Engineering**
 
 ## 🛠️ Tech Stack & Tools
 
