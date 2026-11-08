@@ -1,76 +1,64 @@
-# 👋 Hi there, I'm Mayeed!
+# Hi, I'm Mayeed 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+University+of+Surrey;Software+Development+Intern+%40+IEUK;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+**Aspiring Data Analyst & Data Engineer | Final-year BSc Computer Science student at the University of Surrey**
 
-</div>
+I'm interested in building reliable data pipelines and turning complex datasets into useful business insights. My projects span **SQL analytics, business intelligence, data warehousing, and cloud-based ELT**, using Python, Power BI, BigQuery, and dbt.
 
-## 🚀 About Me
+🎓 **University of Surrey** · BSc (Hons) Computer Science · **Expected graduation: June 2027**  
+📍 **United Kingdom** · Exploring graduate and entry-level opportunities in **Data Analytics, Business Intelligence, and Data Engineering**
 
-- 🎓 **Final Year Computer Science Student** at University of Surrey
-- 🔭 Currently building **AI-powered applications** and **scalable web platforms**
-- 🌱 Learning **Machine Learning**, **Cloud Architecture**, and **DevOps**
-- 👯 Looking to collaborate on **open source projects** and **innovative startups**
-- 💬 Ask me about **Data Analytics**, **Data Engineering**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayeed/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mayeedmuhit@gmail.com)
 
-## 🛠️ Tech Stack & Tools
+## Featured projects
 
-<div align="center">
+### 📊 [Customer Churn & Risk Analysis](https://github.com/Mayeed-git/saas-churn-revenue-analysis)
+**MySQL · Power BI · DAX · Excel**
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Analysed **600 synthetic customer subscriptions** and **48 months of revenue data** to investigate churn, MRR and customer lifetime value.
+- Found **71% churn in Starter plans vs 22% in Enterprise**, helping inform segment-specific retention recommendations.
+- Developed a rule-based customer risk score that flagged **93 of 287 active customers**, representing **£82.2K in monthly recurring revenue at risk**.
+- Built an interactive Power BI dashboard to communicate key findings.
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚡ [GB Energy Data Pipeline](https://github.com/Mayeed-git/gb-energy-data-pipeline)
+**Python · Google Cloud Storage · BigQuery · dbt Core · Looker Studio**
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+- Built an automated daily pipeline ingesting public **GB electricity and weather data** into BigQuery, with duplicate-safe reruns.
+- Developed **8 dbt models** and **16 automated data quality tests**, aligning half-hourly electricity data with hourly weather readings, including daylight-saving transitions.
+- Created a **three-page Looker Studio dashboard** covering carbon intensity, generation mix, weather and data freshness.
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🗄️ [SQL Data Warehouse](https://github.com/Mayeed-git/sql-data-warehouse-project)
+**SQL Server · T-SQL · ETL · Dimensional Modelling**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Built a **Bronze–Silver–Gold** data warehouse using **six CRM and ERP CSV extracts** and stored-procedure-based ingestion.
+- Implemented data cleansing, deduplication, standardisation and validation in T-SQL.
+- Created **star-schema analytical views** for customers, products and sales, with quality checks for key integrity and sales consistency.
 
-</div>
+### 🔎 [Web Traffic Bot Analyzer](https://github.com/Mayeed-git/bot-analyzer)
+**Java · Docker · Behavioural Analysis**
 
+Developed during **Bright Network's Internship Experience UK (Technology) virtual programme**. Analysed **432K+ web requests** to identify **16 suspicious IP addresses** associated with **8.3% of recorded traffic**, and containerised the application for reproducible execution.
 
-## 📊 GitHub Analytics
+## Technical skills
 
-<div align="center">
+| Area | Tools and concepts |
+| --- | --- |
+| **Programming & querying** | Python, SQL (MySQL, T-SQL, BigQuery), Java |
+| **Analytics & BI** | Power BI, DAX, Excel PivotTables, Looker Studio |
+| **Data engineering** | dbt Core, ETL/ELT, data warehousing, dimensional modelling, data quality testing |
+| **Cloud & development** | Google Cloud Storage, BigQuery, Git, GitHub Actions, Docker, REST APIs |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayeed-git&layout=compact&theme=tokyonight&hide_border=true)
+## Currently exploring
 
-</div>
+- Practical data engineering and analytics workflows, from API ingestion to validated reporting.
+- **Multimodal hate speech detection** as my final-year Computer Science research project.
 
-## 🌐 Let's Connect!
+## Education & activities
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayeed/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayeed-git)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayeedmuhit@gmail.com)
-
-**📧 Email:** mayeedmuhit@gmail.com  
-**📍 Location:** Guildford, Surrey, UK  
-**🎓 University:** University of Surrey  
-
-</div>
+- **BSc (Hons) Computer Science**, University of Surrey — expected **June 2027**.
+- **Co-founder**, University of Surrey Bangladesh Society.
+- **IBM MQ Developer Essentials** digital badge; **IKEEP Intrapreneurial Training** digital badge.
 
 ---
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/mayeed/) · [GitHub](https://github.com/Mayeed-git) · [Email](mailto:mayeedmuhit@gmail.com)
